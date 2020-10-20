@@ -14,5 +14,5 @@ Para acceder a la sesiones da click en el botón naranja correspondiente a la se
 
 **Sesión 3**:
 
-[![Sesion 2](https://mybinder.org/v2/gh/JoulesCH/CdPESFM-PythonZH/main)
+[![Sesion 2](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://mybinder.org/v2/gh/JoulesCH/CdPESFM-PythonZH/main)
 
